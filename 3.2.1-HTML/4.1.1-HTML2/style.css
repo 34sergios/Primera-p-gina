@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Doto:wght@100..900&display=swap');
+
+
+body{
+    background-color: hsla(0, 36%, 72%, 0.473);
+    font-family: "Doto", sans-serif;
+
+}
+
+ul{
+    list-style: none;
+}
+input, label{
+    display: block;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+    font-style: italic ;}
+
+    #data-form{
+        background-color: rgb(226, 110, 43);
+    }
+
+    #flavor-form{
+        background-color: rgb(255, 5, 17);
+    }
